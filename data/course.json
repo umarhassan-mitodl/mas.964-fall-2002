@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ]
+  ],
+  "legacy_uid": "961c0f53-e27f-d059-a5ba-23c7773cfa5c",
+  "instructors": {
+    "content": [
+      "c91ce378-adf8-ef81-4750-22d198f289c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d272274c-d5f7-e5ac-5f1d-806e41420678",
+    "website": "mas-964-common-sense-reasoning-for-interactive-applications-fall-2002"
+  },
+  "course_title": "Common Sense Reasoning for Interactive Applications",
+  "course_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nCourse requirements will consist of critiques of class readings (about 2 papers/week), and a final project (paper or computer implementation project). Grades will be based primarily on the projects, as well as a small component for class and online participation\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.964",
+  "course_image_thumbnail": {
+    "content": "fc83419a-9230-24fe-22e9-d22b9ab8153e",
+    "website": "mas-964-common-sense-reasoning-for-interactive-applications-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "497e4d69-d00c-4d86-bc8a-2a601b21982b",
+  "site_short_id": "mas.964-fall-2002",
+  "site_url_path": "courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002",
+  "title": "Course Metadata"
+}
