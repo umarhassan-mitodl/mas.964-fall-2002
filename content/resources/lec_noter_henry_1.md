@@ -5,8 +5,6 @@ description: Introductory lecture presentation on common sense reasoning for int
 file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/abcc9a5e303a07fb6d9f35e65589f840_lec_noter_henry_1.pdf
 file_size: 3358082
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

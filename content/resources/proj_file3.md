@@ -5,8 +5,6 @@ description: Example of student work for the course project on simulation as an 
 file: /courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/d2fab5f5428979f5d79dadfd9095e34d_proj_file3.pdf
 file_size: 252275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

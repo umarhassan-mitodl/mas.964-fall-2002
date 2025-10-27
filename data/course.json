@@ -33,7 +33,6 @@
     "website": "mas-964-common-sense-reasoning-for-interactive-applications-fall-2002"
   },
   "course_title": "Common Sense Reasoning for Interactive Applications",
-  "hide_download": true,
   "course_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nCourse requirements will consist of critiques of class readings (about 2 papers/week), and a final project (paper or computer implementation project). Grades will be based primarily on the projects, as well as a small component for class and online participation\n",
   "department_numbers": [
     "MAS"
@@ -44,7 +43,6 @@
     "content": "fc83419a-9230-24fe-22e9-d22b9ab8153e",
     "website": "mas-964-common-sense-reasoning-for-interactive-applications-fall-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
